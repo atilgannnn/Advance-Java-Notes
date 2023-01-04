@@ -1,6 +1,5 @@
 package AdvJavaPractice.MultiThreads.interrupt;
 
-import AdvJavaPractice.multithreads.waitNotify.ShopWaitNotify;
 
 /*
 TASK: Bir marketteki stok miktarını takip eden bir uygulama tasarlayınız.
